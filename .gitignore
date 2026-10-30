@@ -1,0 +1,23 @@
+# 本地配置、凭据和私钥不得提交。
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# 编译结果、缓存和临时文件。
+/build/
+/tmp/
+__pycache__/
+*.pyc
+.vs/
+*.log
+*.jou
+*.pb
+/xsim.dir/
+
+# 开发工具安装包不属于工程源码。
+*.exe
+*.msi
