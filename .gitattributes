@@ -11,3 +11,7 @@
 *.tcl text eol=lf
 *.py text eol=lf
 *.sh text eol=lf
+
+# Freeze deployed Flash snapshot bytes for SHA256 reproducibility.
+/flash/v11/** -text
+/flash/v11/program_files/*.fs -diff
