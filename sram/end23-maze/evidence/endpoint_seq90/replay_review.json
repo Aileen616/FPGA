@@ -1,0 +1,117 @@
+{
+  "status": "FROZEN_SEQ90_FPGA_C_O0_O2_PYTHON_AGREE_ZERO",
+  "frame_sequence": 90,
+  "frame_sha256": "5704f59e05cfba105c74a8c539d20797bfdc2500d52473af64b925022c158106",
+  "source_sha256": "9b4d3efae49fd92d2a3471877cef6e63a9064edf39cc9ea25ad2a9160e69f7b9",
+  "fpga_count": 0,
+  "python_count": 0,
+  "c_replays": [
+    {
+      "optimization": "O0",
+      "header": [
+        0,
+        0,
+        6619,
+        42444,
+        0,
+        0
+      ],
+      "boxes": []
+    },
+    {
+      "optimization": "O2",
+      "header": [
+        0,
+        0,
+        6619,
+        42444,
+        0,
+        0
+      ],
+      "boxes": []
+    }
+  ],
+  "components": [
+    {
+      "threshold": 16,
+      "dark_fraction": 0.0085,
+      "largest_components_xywha": []
+    },
+    {
+      "threshold": 32,
+      "dark_fraction": 0.4795,
+      "largest_components_xywha": [
+        [
+          16,
+          17,
+          84,
+          43,
+          1996
+        ],
+        [
+          15,
+          38,
+          4,
+          7,
+          24
+        ]
+      ]
+    },
+    {
+      "threshold": 48,
+      "dark_fraction": 0.8373333333333334,
+      "largest_components_xywha": [
+        [
+          0,
+          0,
+          100,
+          60,
+          4438
+        ],
+        [
+          77,
+          5,
+          6,
+          6,
+          24
+        ]
+      ]
+    },
+    {
+      "threshold": 64,
+      "dark_fraction": 0.9553333333333334,
+      "largest_components_xywha": [
+        [
+          0,
+          0,
+          100,
+          60,
+          5614
+        ],
+        [
+          23,
+          0,
+          4,
+          2,
+          8
+        ]
+      ]
+    },
+    {
+      "threshold": 80,
+      "dark_fraction": 0.9885,
+      "largest_components_xywha": [
+        [
+          0,
+          0,
+          100,
+          60,
+          5907
+        ]
+      ]
+    }
+  ],
+  "all_channels_below_64_fraction": 0.9553333333333334,
+  "interpretation": "Mostly dark frame; dominant dark components touch image boundary. Complete physical target contour is not established.",
+  "no_threshold_changes": true
+}

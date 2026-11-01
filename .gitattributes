@@ -15,3 +15,7 @@
 # Freeze deployed Flash snapshot bytes for SHA256 reproducibility.
 /flash/v11/** -text
 /flash/v11/program_files/*.fs -diff
+
+# Preserve exact bytes of the deployed SRAM snapshot and its checksums.
+/sram/end23-maze/** -text
+/sram/end23-maze/program_files/*.fs -diff
