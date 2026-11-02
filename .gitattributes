@@ -23,3 +23,6 @@
 # Preserve the exact deployed Gowin3 V4 snapshot bytes.
 /sram/gowin3-v4/** -text
 /sram/gowin3-v4/program_files/*.fs -diff
+
+/flash/Gowin3V4.2/** -text
+/flash/Gowin3V4.2/program_files/*.fs -diff

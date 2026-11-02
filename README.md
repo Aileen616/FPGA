@@ -1,3 +1,11 @@
+# Gowin3V4.2
+
+当前任务 4 Flash 版本为 **END27 / ALG5 / MZ16**，已完成 Flash 独立读回及重载验证。
+
+[源码、位流和上位机](flash/Gowin3V4.2/README.md) · [Flash 验证记录](flash/Gowin3V4.2/evidence/flash.json)
+
+---
+
 # Gowin3 V4：当前任务4 SRAM归档
 
 [Gowin3 V4源码、码流与说明](sram/gowin3-v4/README.md) · 标签`gowin3-v4`。

@@ -1,0 +1,1225 @@
+Archive member included to satisfy reference by file (symbol)
+
+F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+                              C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o (__divdi3)
+F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+                              C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o (__moddi3)
+F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+                              C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o (__udivdi3)
+F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+                              F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o) (__clz_tab)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\start.o
+ .data          0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\start.o
+ .bss           0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\start.o
+ .riscv.attributes
+                0x00000000       0x28 F:\FPGA\build\soc\task4_corner30\firmware\start.o
+ .text          0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+ .data          0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+ .bss           0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+ .comment       0x00000000       0x34 F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+ .riscv.attributes
+                0x00000000       0x2f F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+ .text          0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.configured.lto_priv.0
+                0x00000000        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .comment       0x00000000       0x34 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .riscv.attributes
+                0x00000000       0x2f C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .comment       0x00000000       0x34 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .riscv.attributes
+                0x00000000       0x2f C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .text          0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .data          0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .bss           0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .text.ep_workspace_bytes
+                0x00000000        0x8 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .comment       0x00000000       0x34 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .riscv.attributes
+                0x00000000       0x2f F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .text          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .comment       0x00000000       0x34 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .eh_frame      0x00000000       0x28 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .riscv.attributes
+                0x00000000       0x2f F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .text          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .data          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .bss           0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .comment       0x00000000       0x34 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .eh_frame      0x00000000       0x28 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .riscv.attributes
+                0x00000000       0x2f F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .text          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .comment       0x00000000       0x34 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .eh_frame      0x00000000       0x28 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .riscv.attributes
+                0x00000000       0x2f F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+ .comment       0x00000000       0x34 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+ .riscv.attributes
+                0x00000000       0x2f F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ITCM             0x02000000         0x00020000         xr
+DTCM             0x01000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\start.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\imu_runtime.o
+LOAD C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+LOAD C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\tof5_main.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\tof5_control.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\sensor_joint_array.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\bypass_return.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\heading_hold.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\heading_straight.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\heading_calibration.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\bmi088.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\bmi088_fifo.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\robot_mission.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\perf_monitor.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\jdy31_motor.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\mecanum_manual.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\mecanum_mixer.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\ps2_control.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\autonomy_policy.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\autonomy_ps2_adapter.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\fpga_vision.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\maze_tof.o
+LOAD F:\FPGA\build\soc\task4_corner30\firmware\maze_odometry.o
+LOAD F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a
+
+.text           0x02000000    0x10a74
+ *(.vectors)
+ .vectors       0x02000000       0x14 F:\FPGA\build\soc\task4_corner30\firmware\start.o
+                0x02000000                _start
+ *(.text.startup*)
+ .text.startup  0x02000014       0x5e F:\FPGA\build\soc\task4_corner30\firmware\start.o
+ .text.startup.main
+                0x02000072      0xe44 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02000072                main
+ *(.text*)
+ .text.memset   0x02000eb6       0x14 F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+                0x02000eb6                memset
+ .text.memcpy   0x02000eca       0x1c F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+                0x02000eca                memcpy
+ .text.imu_irq_snapshot
+                0x02000ee6       0x36 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.imu_spi  0x02000f1c      0x10a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.inputs   0x02001026       0xd2 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.tof_shutdown.lto_priv.0
+                0x020010f8       0x34 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020010f8                tof_shutdown.lto_priv.0
+ .text.perf_enqueue
+                0x0200112c       0x54 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.vision_service
+                0x02001180      0x1c0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.endpoint_image_owned
+                0x02001340       0x14 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.auto_clearance
+                0x02001354       0x50 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.auto_leg
+                0x020013a4       0xce C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_quality_event
+                0x02001472       0x70 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_vision_begin
+                0x020014e2       0x3e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.legacy_write
+                0x02001520       0x48 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.legacy_state
+                0x02001568       0x20 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.legacy_configure
+                0x02001588       0x7a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.legacy_drive
+                0x02001602      0x176 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.imu_display_manual_reset
+                0x02001778       0x26 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.uart_tx_service
+                0x0200179e       0x7e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.tof_select_priority
+                0x0200181c      0x11c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.autonomy_init
+                0x02001938      0x228 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.autonomy_inputs
+                0x02001b60      0x258 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.imu_quality_reset
+                0x02001db8       0x28 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.imu_start
+                0x02001de0      0x13c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.endpoint_abort
+                0x02001f1c       0x7a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_tof_step
+                0x02001f96      0x6cc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.strcmp   0x02002662       0x1a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002662                strcmp
+ .text.strncmp  0x0200267c       0x28 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0200267c                strncmp
+ .text.imu_ready.lto_priv.0
+                0x020026a4       0x6e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020026a4                imu_ready.lto_priv.0
+ .text.encoder_delta_at.lto_priv.0
+                0x02002712       0x30 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002712                encoder_delta_at.lto_priv.0
+ .text.tof_stop.lto_priv.0
+                0x02002742       0x44 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002742                tof_stop.lto_priv.0
+ .text.number.lto_priv.0
+                0x02002786       0x3e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002786                number.lto_priv.0
+ .text.text.lto_priv.0
+                0x020027c4       0x12 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020027c4                text.lto_priv.0
+                0x020027c4                append.lto_priv.0
+ .text.decimal.lto_priv.0.lto_priv.0
+                0x020027d6       0x42 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020027d6                decimal.lto_priv.0.lto_priv.0
+                0x020027d6                decimal.lto_priv.1.lto_priv.0
+ .text.field.lto_priv.0
+                0x02002818       0x14 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002818                field.lto_priv.0
+ .text.signed_number.lto_priv.0
+                0x0200282c       0x14 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0200282c                signed_number.lto_priv.0
+ .text.robot_inputs.lto_priv.0
+                0x02002840      0x12c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002840                robot_inputs.lto_priv.0
+ .text.robot_commit.lto_priv.0
+                0x0200296c       0x96 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0200296c                robot_commit.lto_priv.0
+ .text.auto_commit
+                0x02002a02       0x32 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.robot_numbers.lto_priv.0
+                0x02002a34       0x8c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002a34                robot_numbers.lto_priv.0
+ .text.endpoint_fresh.lto_priv.0
+                0x02002ac0       0x26 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002ac0                endpoint_fresh.lto_priv.0
+ .text.maze_vision_feed
+                0x02002ae6       0x94 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_drive_ready.lto_priv.0
+                0x02002b7a       0x32 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002b7a                maze_drive_ready.lto_priv.0
+ .text.maze_commit
+                0x02002bac       0xdc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_quality_bad.lto_priv.0
+                0x02002c88       0x28 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002c88                maze_quality_bad.lto_priv.0
+ .text.maze_map_reply.lto_priv.0
+                0x02002cb0       0x18 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002cb0                maze_map_reply.lto_priv.0
+ .text.maze_map_node.lto_priv.0
+                0x02002cc8      0x168 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002cc8                maze_map_node.lto_priv.0
+ .text.maze_vision_cancel.lto_priv.0
+                0x02002e30       0x16 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002e30                maze_vision_cancel.lto_priv.0
+ .text.halt.lto_priv.0
+                0x02002e46      0x182 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002e46                halt.lto_priv.0
+ .text.robot_pi.lto_priv.0
+                0x02002fc8       0xe4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02002fc8                robot_pi.lto_priv.0
+ .text.auto_fail
+                0x020030ac       0x30 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_health_stop.lto_priv.0
+                0x020030dc       0x36 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020030dc                maze_health_stop.lto_priv.0
+ .text.maze_health_check
+                0x02003112      0x158 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.imu_service
+                0x0200326a      0x6c0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.osd_line
+                0x0200392a       0x5e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.endpoint_imu_service
+                0x02003988       0x9a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_link_error
+                0x02003a22       0x3a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.reply.lto_priv.0
+                0x02003a5c       0x6a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02003a5c                reply.lto_priv.0
+ .text.status.lto_priv.0
+                0x02003ac6      0x34e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02003ac6                status.lto_priv.0
+ .text.guard_reply.lto_priv.0
+                0x02003e14      0x1a6 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02003e14                guard_reply.lto_priv.0
+ .text.imu_command.lto_priv.0
+                0x02003fba      0x700 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02003fba                imu_command.lto_priv.0
+ .text.vision_command.lto_priv.0
+                0x020046ba      0x4ea C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020046ba                vision_command.lto_priv.0
+ .text.autonomy_reply.lto_priv.0
+                0x02004ba4      0x102 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02004ba4                autonomy_reply.lto_priv.0
+ .text.tof4_read_reply.lto_priv.0
+                0x02004ca6      0x288 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02004ca6                tof4_read_reply.lto_priv.0
+ .text.legacy_guard
+                0x02004f2e       0x4a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.pad_cal_finish
+                0x02004f78       0x32 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.maze_reset.lto_priv.0
+                0x02004faa      0x31e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02004faa                maze_reset.lto_priv.0
+ .text.maze_service
+                0x020052c8     0x1cb2 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.control_tick.lto_priv.0
+                0x02006f7a      0xcee C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02006f7a                control_tick.lto_priv.0
+ .text.tof_byte
+                0x02007c68       0xa0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.tof_transfer
+                0x02007d08      0x312 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.tof_read.lto_priv.0
+                0x0200801a        0xe C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0200801a                tof_read.lto_priv.0
+ .text.tof_write.lto_priv.0
+                0x02008028       0x44 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02008028                tof_write.lto_priv.0
+ .text.legacy_invalidate.lto_priv.0
+                0x0200806c       0x3a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0200806c                legacy_invalidate.lto_priv.0
+ .text.autonomy_begin.lto_priv.0
+                0x020080a6      0x37c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020080a6                autonomy_begin.lto_priv.0
+ .text.maze_begin.lto_priv.0
+                0x02008422      0x274 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02008422                maze_begin.lto_priv.0
+ .text.imu_display_fault
+                0x02008696       0xc8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.imu_display_service
+                0x0200875e      0x1bc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.imu_display_reply.lto_priv.0
+                0x0200891a      0x154 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0200891a                imu_display_reply.lto_priv.0
+ .text.pad_stop.lto_priv.0
+                0x02008a6e       0x26 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02008a6e                pad_stop.lto_priv.0
+ .text.pad_service
+                0x02008a94      0x5f8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.uart_rx_service
+                0x0200908c      0x59e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .text.encoder_fault_reply.lto_priv.0
+                0x0200962a      0x1bc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0200962a                encoder_fault_reply.lto_priv.0
+ .text.encoder_live_reply.lto_priv.0
+                0x020097e6      0x27a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020097e6                encoder_live_reply.lto_priv.0
+ .text.encoder_edge_reply.lto_priv.0
+                0x02009a60      0x1a8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02009a60                encoder_edge_reply.lto_priv.0
+ .text.wr       0x02009c08       0x28 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .text.wrap     0x02009c30       0x32 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .text.direction
+                0x02009c62       0x1a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .text.clear_frames.constprop.0
+                0x02009c7c       0x72 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .text.read_reg.lto_priv.1
+                0x02009cee       0x68 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .text.rd.constprop.0
+                0x02009d56       0x66 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .text.bmi088_irq_step.part.0
+                0x02009dbc      0x408 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x02009dbc                bmi088_irq_step.part.0
+ .text.robot_atan2
+                0x0200a1c4       0x9a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a1c4                robot_atan2
+ .text.hex_word.lto_priv.0
+                0x0200a25e       0x42 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a25e                hex_word.lto_priv.0
+ .text.perf_monitor_request
+                0x0200a2a0       0x1e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a2a0                perf_monitor_request
+ .text.number.lto_priv.1
+                0x0200a2be       0x40 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a2be                number.lto_priv.1
+ .text.axis.lto_priv.0
+                0x0200a2fe       0x40 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a2fe                axis.lto_priv.0
+ .text.reject.constprop.0
+                0x0200a33e       0x32 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a33e                reject.constprop.0
+ .text.heading_sample.constprop.0
+                0x0200a370      0x3ba C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a370                heading_sample.constprop.0
+ .text.raw_distance.constprop.0
+                0x0200a72a       0x54 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a72a                raw_distance.constprop.0
+ .text.map_touch.constprop.0
+                0x0200a77e       0x40 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a77e                map_touch.constprop.0
+ .text.bad_quality.constprop.0
+                0x0200a7be       0x8e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a7be                bad_quality.constprop.0
+ .text.fresh.constprop.0
+                0x0200a84c       0x32 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a84c                fresh.constprop.0
+ .text.robot_begin.constprop.0
+                0x0200a87e       0xe6 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a87e                robot_begin.constprop.0
+ .text.observe.constprop.0
+                0x0200a964       0xb6 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200a964                observe.constprop.0
+ .text.fv_fresh.constprop.0
+                0x0200aa1a       0x22 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200aa1a                fv_fresh.constprop.0
+ .text.fv_released.constprop.0
+                0x0200aa3c       0x2c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200aa3c                fv_released.constprop.0
+ .text.ap_stop_distance.constprop.0
+                0x0200aa68       0xc8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200aa68                ap_stop_distance.constprop.0
+ .text.health.constprop.0
+                0x0200ab30      0x1b4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200ab30                health.constprop.0
+ .text.encoder_stop_trace.constprop.0
+                0x0200ace4      0x114 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200ace4                encoder_stop_trace.constprop.0
+ .text.robot_stop.constprop.0
+                0x0200adf8       0x38 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200adf8                robot_stop.constprop.0
+ .text.robot_step.constprop.0
+                0x0200ae30      0x7d4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200ae30                robot_step.constprop.0
+ .text.vl53l1x_array_health.part.0.constprop.0
+                0x0200b604       0x78 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b604                vl53l1x_array_health.part.0.constprop.0
+ .text.read_reg.constprop.0
+                0x0200b67c       0x2c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b67c                read_reg.constprop.0
+ .text.confirm_clear.constprop.0
+                0x0200b6a8       0x42 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b6a8                confirm_clear.constprop.0
+ .text.check_id.constprop.0
+                0x0200b6ea       0x36 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b6ea                check_id.constprop.0
+ .text.data_ready.constprop.0
+                0x0200b720       0x3e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b720                data_ready.constprop.0
+ .text.write_value.constprop.0
+                0x0200b75e       0x44 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b75e                write_value.constprop.0
+ .text.shutdown_all.constprop.0
+                0x0200b7a2       0x56 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b7a2                shutdown_all.constprop.0
+ .text.tof_start.part.0.lto_priv.0
+                0x0200b7f8      0x1c2 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b7f8                tof_start.part.0.lto_priv.0
+ .text.span.constprop.0
+                0x0200b9ba       0x46 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200b9ba                span.constprop.0
+ .text.centre.constprop.0
+                0x0200ba00       0x24 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200ba00                centre.constprop.0
+ .text.wall.constprop.0
+                0x0200ba24       0x48 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200ba24                wall.constprop.0
+ .text.opening.constprop.0
+                0x0200ba6c       0x6c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200ba6c                opening.constprop.0
+ .text.arm_sides.constprop.0
+                0x0200bad8       0x5c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200bad8                arm_sides.constprop.0
+ .text.move.constprop.0
+                0x0200bb34      0x248 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200bb34                move.constprop.0
+ .text.state.constprop.0
+                0x0200bd7c       0x2c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200bd7c                state.constprop.0
+ .text.wait_for.constprop.0
+                0x0200bda8       0x40 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200bda8                wait_for.constprop.0
+ .text.mt_start.constprop.0
+                0x0200bde8       0x9c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200bde8                mt_start.constprop.0
+ .text.fault.constprop.0
+                0x0200be84       0x2a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200be84                fault.constprop.0
+ .text.arrive.constprop.0
+                0x0200beae      0x230 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200beae                arrive.constprop.0
+ .text.mt_cancel.part.0.constprop.0
+                0x0200c0de       0x2c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200c0de                mt_cancel.part.0.constprop.0
+ .text.command.constprop.1
+                0x0200c10a     0x1e80 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200c10a                command.constprop.1
+ .text.stop.constprop.0
+                0x0200df8a       0x3a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200df8a                stop.constprop.0
+ .text.jdy_motor_poll.constprop.0
+                0x0200dfc4       0x60 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200dfc4                jdy_motor_poll.constprop.0
+ .text.reply.constprop.0
+                0x0200e024       0x44 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200e024                reply.constprop.0
+ .text.keys.constprop.0
+                0x0200e068       0xe0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200e068                keys.constprop.0
+ .text.wait_for.constprop.1.isra.0
+                0x0200e148       0x3a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200e148                wait_for.constprop.1.isra.0
+ .text.imu_quality_check.isra.0
+                0x0200e182       0xdc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+                0x0200e182                imu_quality_check.isra.0
+ .text.enqueue  0x0200e25e       0x74 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .text.ep_red_pixel
+                0x0200e2d2       0x8c F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+                0x0200e2d2                ep_red_pixel
+ .text.ep_reset
+                0x0200e35e       0x3e F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+                0x0200e35e                ep_reset
+ .text.ep_pixel
+                0x0200e39c       0x7e F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+                0x0200e39c                ep_pixel
+ .text.ep_begin
+                0x0200e41a       0x84 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+                0x0200e41a                ep_begin
+ .text.ep_step  0x0200e49e      0x204 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+                0x0200e49e                ep_step
+ .text.ep_result
+                0x0200e6a2        0xa F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+                0x0200e6a2                ep_result
+ .text.__divdi3
+                0x0200e6ac      0x3e2 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+                0x0200e6ac                __divdi3
+ .text.__moddi3
+                0x0200ea8e      0x3be F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+                0x0200ea8e                __moddi3
+ .text.__udivdi3
+                0x0200ee4c      0x3a6 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+                0x0200ee4c                __udivdi3
+ *(.rodata*)
+ *fill*         0x0200f1f2        0x2 
+ .rodata.maze_tof_step
+                0x0200f1f4       0x50 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.maze_map_node.lto_priv.0.str1.4
+                0x0200f244     0x149e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                                 0x67 (size before relaxing)
+ .rodata.status.lto_priv.0.str1.4
+                0x020106e2       0xc7 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.guard_reply.lto_priv.0.str1.4
+                0x020106e2       0xbc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.imu_command.lto_priv.0.str1.4
+                0x020106e2      0x23f C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.vision_command.lto_priv.0.str1.4
+                0x020106e2      0x1b1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.autonomy_reply.lto_priv.0.str1.4
+                0x020106e2       0x68 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.tof4_read_reply.lto_priv.0.str1.4
+                0x020106e2       0x49 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x020106e2        0x2 
+ .rodata.maze_service
+                0x020106e4       0x18 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.imu_display_reply.lto_priv.0.str1.4
+                0x020106fc       0xa1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.pad_service.str1.4
+                0x020106fc       0x1e C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.uart_rx_service.str1.4
+                0x020106fc       0x75 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.encoder_fault_reply.lto_priv.0.str1.4
+                0x020106fc       0x69 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.encoder_live_reply.lto_priv.0.str1.4
+                0x020106fc       0x5c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.encoder_edge_reply.lto_priv.0.str1.4
+                0x020106fc       0x77 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.main.str1.4
+                0x020106fc      0x33b C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.main   0x020106fc       0x1c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.a.1.lto_priv.0
+                0x02010718       0x40 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02010718                a.1.lto_priv.0
+ .rodata.str1.4
+                0x02010758       0x6d C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.names.10
+                0x02010758       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.commands.0
+                0x02010768       0x3c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.limits.1
+                0x020107a4        0x6 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x020107aa        0x2 
+ .rodata.tb.0   0x020107ac       0x14 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.ta.1   0x020107c0       0x14 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.CSWTCH.30
+                0x020107d4       0x15 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x020107e9        0x3 
+ .rodata.vl53l1x_defaults
+                0x020107ec       0x5b C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x02010847        0x1 
+ .rodata.slot.11
+                0x02010848        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.hex.9  0x0201084c       0x11 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x0201085d        0x3 
+ .rodata.hex.5.lto_priv.0
+                0x02010860       0x11 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x02010860                digits.0.lto_priv.0
+                0x02010860                hex.5.lto_priv.0
+ *fill*         0x02010871        0x3 
+ .rodata.errors.2
+                0x02010874        0xc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.ages.3
+                0x02010880        0xc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.keys.4
+                0x0201088c        0xc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.CSWTCH.757
+                0x02010898        0x7 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x0201089f        0x1 
+ .rodata.right.1
+                0x020108a0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.canonical_bit
+                0x020108a4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.channel_to_bit.lto_priv.0
+                0x020108a8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x020108a8                channel_to_bit.lto_priv.0
+ .rodata.CSWTCH.827
+                0x020108ac        0x5 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x020108b1        0x3 
+ .rodata        0x020108b4       0x18 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .rodata.bmi088_irq_step.part.0
+                0x020108cc       0x20 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata.command.constprop.1.str1.4
+                0x020108ec      0x97a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata.keys.constprop.0.str1.4
+                0x020108ec       0x36 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata.a.0    0x020108ec       0x3c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata.ry.0   0x02010928        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata.fx.1   0x0201092c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata.config
+                0x02010930       0x30 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata        0x02010960       0x14 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .rodata.__clz_tab
+                0x02010974      0x100 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+                0x02010974                __clz_tab
+ *(.srodata*)
+                0x02011268                        . = ALIGN (0x4)
+
+.rela.dyn       0x02010a74        0x0
+ .rela.text.startup
+                0x02010a74        0x0 F:\FPGA\build\soc\task4_corner30\firmware\start.o
+
+.data           0x01000000        0x8 load address 0x02010a74
+                0x01000000                        . = ALIGN (0x4)
+                0x01000000                        __data_start = .
+ *(.data*)
+ .data.osd_word
+                0x01000000        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .data.maze_requested_target.lto_priv.0
+                0x01000004        0x2 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000004                maze_requested_target.lto_priv.0
+ .data.endpoint_run.lto_priv.0
+                0x01000006        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000006                endpoint_run.lto_priv.0
+ *(.sdata*)
+                0x01000008                        . = ALIGN (0x4)
+ *fill*         0x01000007        0x1 
+                0x01000008                        __data_end = .
+                0x02010a74                        __data_load = LOADADDR (.data)
+
+.bss            0x01000008     0x6ed0 load address 0x02010a7c
+                0x01000008                        . = ALIGN (0x4)
+                0x01000008                        __bss_start = .
+ *(.bss*)
+ .bss.osd_tof_seen
+                0x01000008        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000009        0x3 
+ .bss.osd_tof_mm
+                0x0100000c        0x8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.pitch_md  0x01000014        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.roll_md   0x01000018        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.tilt_stamp
+                0x0100001c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.tilt_valid
+                0x01000020        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000021        0x3 
+ .bss.osd_bank  0x01000024        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.osd_stamp
+                0x01000028        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.endpoint_updates.lto_priv.0
+                0x0100002c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100002c                endpoint_updates.lto_priv.0
+ .bss.endpoint_elapsed.lto_priv.0
+                0x01000030        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000030                endpoint_elapsed.lto_priv.0
+ .bss.endpoint_capture_ms.lto_priv.0
+                0x01000034        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000034                endpoint_capture_ms.lto_priv.0
+ .bss.endpoint_publish_ms.lto_priv.0
+                0x01000038        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000038                endpoint_publish_ms.lto_priv.0
+ .bss.endpoint_step_max_us.lto_priv.0
+                0x0100003c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100003c                endpoint_step_max_us.lto_priv.0
+ .bss.endpoint_read_us.lto_priv.0
+                0x01000040        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000040                endpoint_read_us.lto_priv.0
+ .bss.endpoint_index.lto_priv.0
+                0x01000044        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000044                endpoint_index.lto_priv.0
+ .bss.endpoint_ready_ms
+                0x01000048        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.endpoint_pending_sequence
+                0x0100004c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.endpoint_pending_token
+                0x01000050        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.available.lto_priv.0
+                0x01000054        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000054                available.lto_priv.0
+ *fill*         0x01000055        0x3 
+ .bss.writer.lto_priv.0
+                0x01000058        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000058                writer.lto_priv.0
+ .bss.start_ms  0x0100005c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.index     0x01000060        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.used.lto_priv.0
+                0x01000064        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000064                used.lto_priv.0
+ .bss.report.lto_priv.0
+                0x01000068      0x110 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000068                report.lto_priv.0
+ .bss.phase.lto_priv.0
+                0x01000178        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000178                phase.lto_priv.0
+ .bss.perf_monitor_pending
+                0x0100017c        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100017c                perf_monitor_pending
+ *fill*         0x0100017d        0x3 
+ .bss.last_tof  0x01000180        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.line.lto_priv.0
+                0x01000184       0x60 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000184                line.lto_priv.0
+ .bss.rx_stamp  0x010001e4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.encoder_trace.lto_priv.0
+                0x010001e8       0x98 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010001e8                encoder_trace.lto_priv.0
+ .bss.pad_attempts
+                0x01000280        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.pad_history_count.lto_priv.0
+                0x01000284        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000284                pad_history_count.lto_priv.0
+ .bss.pad_history.lto_priv.0
+                0x01000288       0xb0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000288                pad_history.lto_priv.0
+ .bss.pad_history_next.lto_priv.0
+                0x01000338        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000338                pad_history_next.lto_priv.0
+ .bss.pad_cal_since
+                0x0100033c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.dropping  0x01000340        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000341        0x3 
+ .bss.length    0x01000344        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.pad       0x01000348       0x1c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.pad_result
+                0x01000364        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000365        0x3 
+ .bss.imu_display
+                0x01000368       0x40 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.legacy.lto_priv.0
+                0x010003a8       0x94 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010003a8                legacy.lto_priv.0
+ .bss.legacy_tx
+                0x0100043c      0x200 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.legacy_head
+                0x0100063c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.legacy_tail
+                0x01000640        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_map_trial_mode.lto_priv.0
+                0x01000644        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000644                maze_map_trial_mode.lto_priv.0
+ *fill*         0x01000645        0x3 
+ .bss.maze_first_capture
+                0x01000648        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_coverage.lto_priv.0
+                0x0100064c        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100064c                maze_coverage.lto_priv.0
+ *fill*         0x0100064d        0x3 
+ .bss.maze_probe_yaw.lto_priv.0
+                0x01000650        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000650                maze_probe_yaw.lto_priv.0
+ .bss.maze_probe_front.lto_priv.0
+                0x01000654        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000654                maze_probe_front.lto_priv.0
+ .bss.maze_probe_stationary.lto_priv.0
+                0x01000658        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000658                maze_probe_stationary.lto_priv.0
+ .bss.maze_started_ms
+                0x0100065c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_tick_ms
+                0x01000660        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_consumed.lto_priv.0
+                0x01000664        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000664                maze_consumed.lto_priv.0
+ .bss.maze_rejected.lto_priv.0
+                0x01000668        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000668                maze_rejected.lto_priv.0
+ .bss.endpoint_result_token.lto_priv.0
+                0x0100066c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100066c                endpoint_result_token.lto_priv.0
+ .bss.maze_probe_value
+                0x01000670        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000671        0x3 
+ .bss.maze_vision_seq
+                0x01000674        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.endpoint_sequence.lto_priv.0
+                0x01000678        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000678                endpoint_sequence.lto_priv.0
+ .bss.maze_request_ms.lto_priv.0
+                0x0100067c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100067c                maze_request_ms.lto_priv.0
+ .bss.maze_token
+                0x01000680        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_initialized.lto_priv.0
+                0x01000684        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000684                maze_initialized.lto_priv.0
+ *fill*         0x01000685        0x3 
+ .bss.maze_ticks.lto_priv.0
+                0x01000688        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000688                maze_ticks.lto_priv.0
+ .bss.maze_max_us.lto_priv.0
+                0x0100068c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100068c                maze_max_us.lto_priv.0
+ .bss.maze_input.lto_priv.0
+                0x01000690       0x78 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000690                maze_input.lto_priv.0
+ .bss.maze_probe_count.lto_priv.0
+                0x01000708        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000708                maze_probe_count.lto_priv.0
+ .bss.maze_probe_result.lto_priv.0
+                0x01000709        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000709                maze_probe_result.lto_priv.0
+ *fill*         0x0100070a        0x2 
+ .bss.maze_core_token
+                0x0100070c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_capture_token.lto_priv.0
+                0x01000710        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000710                maze_capture_token.lto_priv.0
+ .bss.endpoint_request_token
+                0x01000714        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_map_session.lto_priv.0
+                0x01000718        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000718                maze_map_session.lto_priv.0
+ .bss.maze_link_bad.lto_priv.0
+                0x0100071c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x0100071c                maze_link_bad.lto_priv.0
+ .bss.maze_lq   0x01000720       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_tq   0x01000730       0x40 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu_quality_fault.lto_priv.0
+                0x01000770        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000770                imu_quality_fault.lto_priv.0
+ .bss.maze_health_fault.lto_priv.0
+                0x01000771        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000771                maze_health_fault.lto_priv.0
+ *fill*         0x01000772        0x2 
+ .bss.maze_commits.lto_priv.0
+                0x01000774        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000774                maze_commits.lto_priv.0
+ .bss.maze_drive_config
+                0x01000778        0xa C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000782        0x2 
+ .bss.tof_poll_max_us.lto_priv.0
+                0x01000784       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000784                tof_poll_max_us.lto_priv.0
+ .bss.tof_poll_count.lto_priv.0
+                0x01000794       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000794                tof_poll_count.lto_priv.0
+ .bss.illegal_start.lto_priv.0
+                0x010007a4       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007a4                illegal_start.lto_priv.0
+ .bss.autonomy_initialized
+                0x010007b4        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x010007b5        0x3 
+ .bss.start_reject_mask
+                0x010007b8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_illegal
+                0x010007bc       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.endpoint_next
+                0x010007cc        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.endpoint_failures.lto_priv.0
+                0x010007d0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007d0                endpoint_failures.lto_priv.0
+ .bss.endpoint_error.lto_priv.0
+                0x010007d4        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007d4                endpoint_error.lto_priv.0
+ *fill*         0x010007d5        0x3 
+ .bss.endpoint_error_cpu_us.lto_priv.0
+                0x010007d8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007d8                endpoint_error_cpu_us.lto_priv.0
+ .bss.endpoint_compute_us.lto_priv.0
+                0x010007dc        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007dc                endpoint_compute_us.lto_priv.0
+ .bss.endpoint_error_steps.lto_priv.0
+                0x010007e0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007e0                endpoint_error_steps.lto_priv.0
+ .bss.endpoint_error_ms.lto_priv.0
+                0x010007e4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007e4                endpoint_error_ms.lto_priv.0
+ .bss.endpoint_start
+                0x010007e8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.endpoint_pending_stamp.lto_priv.0
+                0x010007ec        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007ec                endpoint_pending_stamp.lto_priv.0
+ .bss.endpoint_phase.lto_priv.0
+                0x010007f0        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007f0                endpoint_phase.lto_priv.0
+ *fill*         0x010007f1        0x3 
+ .bss.endpoint_stamp.lto_priv.0
+                0x010007f4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007f4                endpoint_stamp.lto_priv.0
+ .bss.endpoint_last.lto_priv.0
+                0x010007f8       0xcc C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010007f8                endpoint_last.lto_priv.0
+ .bss.endpoint_seen.lto_priv.0
+                0x010008c4        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010008c4                endpoint_seen.lto_priv.0
+ .bss.pad_cal_stage.lto_priv.0
+                0x010008c5        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010008c5                pad_cal_stage.lto_priv.0
+ .bss.pad_owner.lto_priv.0
+                0x010008c6        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010008c6                pad_owner.lto_priv.0
+ *fill*         0x010008c7        0x1 
+ .bss.row.8     0x010008c8      0x19a C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000a62        0x2 
+ .bss.osd_page  0x01000a64      0x200 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.pi_configured.lto_priv.0
+                0x01000c64        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c64                pi_configured.lto_priv.0
+ *fill*         0x01000c65        0x3 
+ .bss.local_lease.lto_priv.0
+                0x01000c68        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c68                local_lease.lto_priv.0
+ .bss.hw_sequence
+                0x01000c6c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.started_generation
+                0x01000c70        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.renewed_ms.lto_priv.0
+                0x01000c74        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c74                renewed_ms.lto_priv.0
+ .bss.sequence.lto_priv.0
+                0x01000c78        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c78                sequence.lto_priv.0
+ .bss.guard_bus_elapsed.lto_priv.0
+                0x01000c7c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c7c                guard_bus_elapsed.lto_priv.0
+ .bss.guard_bus_status.lto_priv.0
+                0x01000c80        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c80                guard_bus_status.lto_priv.0
+ .bss.guard_bus_stage.lto_priv.0
+                0x01000c84        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c84                guard_bus_stage.lto_priv.0
+ .bss.guard_bus_reg.lto_priv.0
+                0x01000c88        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c88                guard_bus_reg.lto_priv.0
+ .bss.guard_bus_addr.lto_priv.0
+                0x01000c8c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c8c                guard_bus_addr.lto_priv.0
+ .bss.guard_bus_errors.lto_priv.0
+                0x01000c90        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c90                guard_bus_errors.lto_priv.0
+ .bss.guard_bus_max_us.lto_priv.0
+                0x01000c94        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c94                guard_bus_max_us.lto_priv.0
+ .bss.tof_error_stage.lto_priv.0
+                0x01000c98        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c98                tof_error_stage.lto_priv.0
+ .bss.tof_error_reg.lto_priv.0
+                0x01000c9c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000c9c                tof_error_reg.lto_priv.0
+ .bss.tof_error_addr.lto_priv.0
+                0x01000ca0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000ca0                tof_error_addr.lto_priv.0
+ .bss.tof_error_status.lto_priv.0
+                0x01000ca4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000ca4                tof_error_status.lto_priv.0
+ .bss.tof_last_imu_us
+                0x01000ca8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_poll_age
+                0x01000cac        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_pending
+                0x01000cb0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_clear
+                0x01000cb4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_wait
+                0x01000cb8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_phase
+                0x01000cbc        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_range
+                0x01000cc0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_raw
+                0x01000cc4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_error
+                0x01000cc8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_validity
+                0x01000ccc        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_dist
+                0x01000cd0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_seq
+                0x01000cd4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_age
+                0x01000cd8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_stamp
+                0x01000cdc        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_channel
+                0x01000ce0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.guard_mask.lto_priv.0
+                0x01000ce4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000ce4                guard_mask.lto_priv.0
+ .bss.guard_count.lto_priv.0
+                0x01000ce8        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000ce8                guard_count.lto_priv.0
+ .bss.auto_leg_base
+                0x01000cec       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.right_settled_counts.lto_priv.0
+                0x01000cfc        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000cfc                right_settled_counts.lto_priv.0
+ .bss.auto_shift_counts
+                0x01000d00        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_leg_goal
+                0x01000d04        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_progress
+                0x01000d08        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_quiet_ms
+                0x01000d0c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_chunk_end
+                0x01000d10        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_leg_wait
+                0x01000d14        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000d15        0x3 
+ .bss.task3_vision.lto_priv.0
+                0x01000d18       0x28 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000d18                task3_vision.lto_priv.0
+ .bss.auto_stall_ms
+                0x01000d40       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_last_pos
+                0x01000d50       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_rotation_verified
+                0x01000d60        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01000d61        0x3 
+ .bss.auto_reference_md
+                0x01000d64        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.auto_task.lto_priv.0
+                0x01000d68        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000d68                auto_task.lto_priv.0
+ *fill*         0x01000d69        0x3 
+ .bss.stall_stamp.lto_priv.0
+                0x01000d6c       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000d6c                stall_stamp.lto_priv.0
+ .bss.last_motion_ms.lto_priv.0
+                0x01000d7c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000d7c                last_motion_ms.lto_priv.0
+ .bss.last_position
+                0x01000d80       0x10 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.last_tick
+                0x01000d90        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.tof_running.lto_priv.0
+                0x01000d94        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000d94                tof_running.lto_priv.0
+ *fill*         0x01000d95        0x3 
+ .bss.joint_tof.lto_priv.0
+                0x01000d98      0x114 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01000d98                joint_tof.lto_priv.0
+ .bss.tx        0x01000eac      0x400 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.head      0x010012ac        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.tail      0x010012b0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu_lease_seq
+                0x010012b4        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.calibration.lto_priv.0
+                0x010012b8     0x1818 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010012b8                calibration.lto_priv.0
+ .bss.maze_imu_bad.lto_priv.0
+                0x01002ad0        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01002ad0                maze_imu_bad.lto_priv.0
+ .bss.maze_iq.lto_priv.0
+                0x01002ad4       0x20 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01002ad4                maze_iq.lto_priv.0
+ .bss.irq_candidate
+                0x01002af4       0xb0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu.lto_priv.0
+                0x01002ba4       0xb0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01002ba4                imu.lto_priv.0
+ .bss.irq_last_acc
+                0x01002c54        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.irq_last_gyro
+                0x01002c58        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.irq_missed_acc
+                0x01002c5c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.irq_missed_gyro
+                0x01002c60        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.irq_races
+                0x01002c64        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.irq_armed
+                0x01002c68        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ *fill*         0x01002c69        0x3 
+ .bss.imu_odr_phase
+                0x01002c6c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu_rate_stamp
+                0x01002c70        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu_rate_seq
+                0x01002c74        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu_rate_millihz
+                0x01002c78        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu_max_service_us
+                0x01002c7c        0x4 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.imu_started
+                0x01002c80        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_driver_reason.lto_priv.0
+                0x01002c81        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01002c81                maze_driver_reason.lto_priv.0
+ *fill*         0x01002c82        0x2 
+ .bss.maze_wheel
+                0x01002c84        0x8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.maze_trial.lto_priv.0
+                0x01002c8c        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01002c8c                maze_trial.lto_priv.0
+ *fill*         0x01002c8d        0x3 
+ .bss.maze_shadow.lto_priv.0
+                0x01002c90      0x918 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01002c90                maze_shadow.lto_priv.0
+ .bss.maze_probe.lto_priv.0
+                0x010035a8        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010035a8                maze_probe.lto_priv.0
+ *fill*         0x010035a9        0x7 
+ .bss.auto_output
+                0x010035b0       0xe8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .bss.autonomy.lto_priv.0
+                0x01003698       0xac C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01003698                autonomy.lto_priv.0
+ .bss.autonomy_owned.lto_priv.0
+                0x01003744        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01003744                autonomy_owned.lto_priv.0
+ *fill*         0x01003745        0x3 
+ .bss.mission.lto_priv.0
+                0x01003748       0x3c C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01003748                mission.lto_priv.0
+ .bss.planner.lto_priv.0
+                0x01003784       0x38 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01003784                planner.lto_priv.0
+ *fill*         0x010037bc        0x4 
+ .bss.heading.lto_priv.0
+                0x010037c0       0x90 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x010037c0                heading.lto_priv.0
+ .bss.robot.lto_priv.0
+                0x01003850       0xe8 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01003850                robot.lto_priv.0
+ .bss.maze_owned.lto_priv.0
+                0x01003938        0x1 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+                0x01003938                maze_owned.lto_priv.0
+ *fill*         0x01003939        0x3 
+ .bss.s         0x0100393c     0x359c F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ *(.sbss*)
+ *(COMMON)
+                0x01006ed8                        . = ALIGN (0x4)
+                0x01006ed8                        __bss_end = .
+                0x01000800                        __global_pointer$ = (__data_start + 0x800)
+                0x01010000                        __stack_top = (ORIGIN (DTCM) + LENGTH (DTCM))
+                0x00000001                        ASSERT ((__bss_end <= (__stack_top - 0x1000)), DTCM stack reserve exhausted)
+
+/DISCARD/
+ *(.comment)
+ *(.eh_frame*)
+ *(.riscv.attributes)
+OUTPUT(F:\FPGA\build\soc\task4_corner30\firmware\firmware.elf elf32-littleriscv)
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\runtime.o
+ .note.GNU-stack
+                0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x00000000        0x0 C:\Users\Lenovo\AppData\Local\Temp\ccBXG0GZ.ltrans1.ltrans.o
+ .note.GNU-stack
+                0x00000000        0x0 F:\FPGA\build\soc\task4_corner30\firmware\endpoint_red.o
+ .note.GNU-stack
+                0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x17e6
+ .debug_info    0x00000000      0x7a0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .debug_info    0x000007a0      0x7eb F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_info    0x00000f8b      0x76e F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .debug_info    0x000016f9       0xed F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+
+.debug_abbrev   0x00000000      0x58e
+ .debug_abbrev  0x00000000      0x1b2 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .debug_abbrev  0x000001b2      0x1d3 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_abbrev  0x00000385      0x199 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000051e       0x70 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+
+.debug_loclists
+                0x00000000     0x18c4
+ .debug_loclists
+                0x00000000      0x81f F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .debug_loclists
+                0x0000081f      0x6cc F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_loclists
+                0x00000eeb      0x9d9 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+
+.debug_aranges  0x00000000       0x78
+ .debug_aranges
+                0x00000000       0x20 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000020       0x20 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_aranges
+                0x00000040       0x20 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000060       0x18 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+
+.debug_rnglists
+                0x00000000      0x30e
+ .debug_rnglists
+                0x00000000      0x11c F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .debug_rnglists
+                0x0000011c       0xe0 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_rnglists
+                0x000001fc      0x112 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+
+.debug_line     0x00000000     0x2071
+ .debug_line    0x00000000      0xaf6 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .debug_line    0x00000af6      0xaf9 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_line    0x000015ef      0xa43 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .debug_line    0x00002032       0x3f F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+
+.debug_str      0x00000000      0x2f9
+ .debug_str     0x00000000      0x2f9 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+                                0x283 (size before relaxing)
+ .debug_str     0x000002f9      0x283 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_str     0x000002f9      0x284 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .debug_str     0x000002f9      0x1d1 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+
+.debug_line_str
+                0x00000000      0x1a2
+ .debug_line_str
+                0x00000000      0x1a2 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+                                0x268 (size before relaxing)
+ .debug_line_str
+                0x000001a2      0x268 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_moddi3.o)
+ .debug_line_str
+                0x000001a2      0x268 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .debug_line_str
+                0x000001a2      0x268 F:/FPGA/Gowin/GMD_2025.01/GMD/toolchain/gowin/gcc_riscv/bin/../lib/gcc/riscv-none-elf/14.2.0/rv32imc/ilp32\libgcc.a(_clz.o)

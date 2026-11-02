@@ -1,0 +1,42 @@
+{
+  "status": "FLASH_READBACK_RELOAD_UART_PASS",
+  "identity": "END27/ALG5/MZ16",
+  "fs_sha256": "62cd983de2b5606dbb83bf00b1fe934d7efa4a305f45ef4becb52f870f738429",
+  "payload_bytes": 5222400,
+  "payload_sha256": "0c17222ee20cfec04bdd4a20d89fad27a72aaa41ed55fb81e16ddb73aacd753b",
+  "expected_boot_usercode": "0x00003876",
+  "boot_usercode": "0x3876",
+  "flash_writes": 1,
+  "pc_original_backup_verified": true,
+  "readback_verified": true,
+  "cold_power_cycle": false,
+  "task_state": 0,
+  "motion_starts": 0,
+  "imu_cal": 0,
+  "wheels": [
+    {
+      "CH": 0,
+      "ACTIVE": 0,
+      "PWM": 0,
+      "TARGET": 0
+    },
+    {
+      "CH": 1,
+      "ACTIVE": 0,
+      "PWM": 0,
+      "TARGET": 0
+    },
+    {
+      "CH": 2,
+      "ACTIVE": 0,
+      "PWM": 0,
+      "TARGET": 0
+    },
+    {
+      "CH": 3,
+      "ACTIVE": 0,
+      "PWM": 0,
+      "TARGET": 0
+    }
+  ]
+}
