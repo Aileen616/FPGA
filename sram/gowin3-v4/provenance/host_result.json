@@ -1,0 +1,1010 @@
+{
+  "detector": {
+    "status": "HOST_TEST_PASS",
+    "cases_per_optimization": 33,
+    "optimizations": [
+      "O0",
+      "O2"
+    ],
+    "exhaustive_pixel_checks_per_optimization": 65536,
+    "opencv_quantization_boundary_differences": 338,
+    "results": [
+      {
+        "opt": "O0",
+        "name": "115",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 457,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          9,
+          8,
+          47
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "132",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 428,
+        "workspace": 13724,
+        "box": [
+          52,
+          21,
+          7,
+          8,
+          44
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "133",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 637,
+        "workspace": 13724,
+        "box": [
+          52,
+          21,
+          7,
+          8,
+          47
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "157",
+        "kind": "real_development",
+        "count": 0,
+        "steps": 534,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "158",
+        "kind": "real_development",
+        "count": 0,
+        "steps": 540,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "159",
+        "kind": "real_development",
+        "count": 0,
+        "steps": 497,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "180",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 576,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          9,
+          8,
+          64
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "181",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 423,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          10,
+          9,
+          66
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "182",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 574,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          9,
+          8,
+          63
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "area15",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 206,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "area16_thin_line",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 207,
+        "workspace": 13724,
+        "box": [
+          0,
+          10,
+          16,
+          1,
+          16
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "diagonal16",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 207,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          16,
+          16,
+          16
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "scattered16",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 237,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "row_wrap_not_connected",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 209,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "border16",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 207,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          4,
+          4,
+          16
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "two_red_objects",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 234,
+        "workspace": 13724,
+        "box": [
+          70,
+          30,
+          5,
+          5,
+          25
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "all_red",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 6191,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          100,
+          60,
+          6000
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "all_black",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "all_white",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "all_green",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "all_blue",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_0",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2252,
+        "workspace": 13724,
+        "box": [
+          36,
+          0,
+          7,
+          9,
+          20
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_1",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2178,
+        "workspace": 13724,
+        "box": [
+          50,
+          41,
+          14,
+          10,
+          23
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_2",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2175,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_3",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2251,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_4",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2222,
+        "workspace": 13724,
+        "box": [
+          14,
+          45,
+          9,
+          10,
+          23
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_5",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2190,
+        "workspace": 13724,
+        "box": [
+          15,
+          38,
+          9,
+          9,
+          23
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_6",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2204,
+        "workspace": 13724,
+        "box": [
+          51,
+          1,
+          6,
+          9,
+          20
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_7",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2197,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_8",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2208,
+        "workspace": 13724,
+        "box": [
+          9,
+          21,
+          8,
+          12,
+          29
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_9",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2183,
+        "workspace": 13724,
+        "box": [
+          31,
+          21,
+          8,
+          8,
+          25
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_10",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2141,
+        "workspace": 13724,
+        "box": [
+          55,
+          20,
+          14,
+          12,
+          36
+        ]
+      },
+      {
+        "opt": "O0",
+        "name": "random_11",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2259,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "115",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 457,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          9,
+          8,
+          47
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "132",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 428,
+        "workspace": 13724,
+        "box": [
+          52,
+          21,
+          7,
+          8,
+          44
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "133",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 637,
+        "workspace": 13724,
+        "box": [
+          52,
+          21,
+          7,
+          8,
+          47
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "157",
+        "kind": "real_development",
+        "count": 0,
+        "steps": 534,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "158",
+        "kind": "real_development",
+        "count": 0,
+        "steps": 540,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "159",
+        "kind": "real_development",
+        "count": 0,
+        "steps": 497,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "180",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 576,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          9,
+          8,
+          64
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "181",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 423,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          10,
+          9,
+          66
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "182",
+        "kind": "real_development",
+        "count": 1,
+        "steps": 574,
+        "workspace": 13724,
+        "box": [
+          50,
+          21,
+          9,
+          8,
+          63
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "area15",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 206,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "area16_thin_line",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 207,
+        "workspace": 13724,
+        "box": [
+          0,
+          10,
+          16,
+          1,
+          16
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "diagonal16",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 207,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          16,
+          16,
+          16
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "scattered16",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 237,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "row_wrap_not_connected",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 209,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "border16",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 207,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          4,
+          4,
+          16
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "two_red_objects",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 234,
+        "workspace": 13724,
+        "box": [
+          70,
+          30,
+          5,
+          5,
+          25
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "all_red",
+        "kind": "synthetic",
+        "count": 1,
+        "steps": 6191,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          100,
+          60,
+          6000
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "all_black",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "all_white",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "all_green",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "all_blue",
+        "kind": "synthetic",
+        "count": 0,
+        "steps": 189,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_0",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2252,
+        "workspace": 13724,
+        "box": [
+          36,
+          0,
+          7,
+          9,
+          20
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_1",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2178,
+        "workspace": 13724,
+        "box": [
+          50,
+          41,
+          14,
+          10,
+          23
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_2",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2175,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_3",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2251,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_4",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2222,
+        "workspace": 13724,
+        "box": [
+          14,
+          45,
+          9,
+          10,
+          23
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_5",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2190,
+        "workspace": 13724,
+        "box": [
+          15,
+          38,
+          9,
+          9,
+          23
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_6",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2204,
+        "workspace": 13724,
+        "box": [
+          51,
+          1,
+          6,
+          9,
+          20
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_7",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2197,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_8",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2208,
+        "workspace": 13724,
+        "box": [
+          9,
+          21,
+          8,
+          12,
+          29
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_9",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2183,
+        "workspace": 13724,
+        "box": [
+          31,
+          21,
+          8,
+          8,
+          25
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_10",
+        "kind": "implementation_equivalence",
+        "count": 1,
+        "steps": 2141,
+        "workspace": 13724,
+        "box": [
+          55,
+          20,
+          14,
+          12,
+          36
+        ]
+      },
+      {
+        "opt": "O2",
+        "name": "random_11",
+        "kind": "implementation_equivalence",
+        "count": 0,
+        "steps": 2259,
+        "workspace": 13724,
+        "box": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "independent_live_holdout": false
+  },
+  "integration": "SIM_PASS red_production_service frames=9 motor_commits=0\r\nHOST_PASS goal_seen focused checks=109181",
+  "hardware_access": 0,
+  "sram_writes": 0,
+  "flash_writes": 0,
+  "motion_starts": 0
+}

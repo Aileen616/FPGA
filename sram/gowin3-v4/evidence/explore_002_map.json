@@ -1,0 +1,56 @@
+{
+  "schema": "bx72.metric-map.v1",
+  "coordinate_unit": "mm",
+  "source": "recorded",
+  "pose": {
+    "type": "map_pose",
+    "session": 1,
+    "revision": 2,
+    "count": 2,
+    "current": 1,
+    "phase": 0,
+    "complete": 0,
+    "goal": -1,
+    "target": -1,
+    "x_mm": 0,
+    "y_mm": 823,
+    "valid": 1,
+    "stamp_ms": 526590
+  },
+  "nodes": [
+    {
+      "type": "map_node",
+      "session": 1,
+      "revision": 1,
+      "id": 0,
+      "parent": -1,
+      "entry": 2,
+      "exits": 1,
+      "tried": 1,
+      "completed": 0,
+      "x_mm": 0,
+      "y_mm": 0,
+      "length_mm": 0,
+      "return_error_mm": 0,
+      "valid": 1,
+      "goal": 0
+    },
+    {
+      "type": "map_node",
+      "session": 1,
+      "revision": 2,
+      "id": 1,
+      "parent": 0,
+      "entry": 2,
+      "exits": 4,
+      "tried": 0,
+      "completed": 0,
+      "x_mm": 0,
+      "y_mm": 823,
+      "length_mm": 823,
+      "return_error_mm": 0,
+      "valid": 1,
+      "goal": 0
+    }
+  ]
+}

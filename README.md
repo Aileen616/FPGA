@@ -1,3 +1,17 @@
+# Gowin3 V4：当前任务4 SRAM归档
+
+[Gowin3 V4源码、码流与说明](sram/gowin3-v4/README.md) · 标签`gowin3-v4`。
+
+本版对应板端END26／ALG5／MZ15：编码器建图、ToF导航和红色终点检测。发布前无线只读查询确认END26，244个源码文件、固件、ROM和完整FS按原样归档；发布名称V4不更改板端版本号。
+
+**这是实车调试版本，完整迷宫未验收。** 已知左直角可能漏报出口，另有返回匹配和不可达对齐目标问题，均未在本次发布修复。
+
+- FS SHA256：`4ba10a6456b9a017e48a68d15bde1521314802c9010a36c5ec600dc4245c2e02`。
+- [当前版本说明](sram/gowin3-v4/README.md)、[左直角问题](sram/gowin3-v4/docs/TASK4_LEFT_CORNER_DIAGNOSIS_20261103.md)、[校验清单](sram/gowin3-v4/MANIFEST.json)。
+- 本次仅归档发布，没有重新下载SRAM、写Flash或启动车辆。此前Flash V11和END23归档继续保留。
+
+---
+
 # BX72 FPGA 版本归档
 
 当前新增 SRAM 迷宫试跑版本 **END23／ALG4／MZ13／FIX2**：[源码、码流与说明](sram/end23-maze/README.md)。这次保存原样版本，终点确认链路尚未修复，完整迷宫未验收。最后两次试跑分别以墙面参考和测距故障停车，用户现场确认停车位置在终点黑色挡板处。

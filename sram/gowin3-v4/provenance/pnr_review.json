@@ -1,0 +1,495 @@
+{
+  "status": "PNR_STATIC_REVIEW_PASS_HW_PENDING",
+  "identity": "END26/ALG5/MZ15",
+  "timing_ns": {
+    "Setup_Slack_Table": 0.024,
+    "Hold_Slack_Table": 0.175,
+    "Recovery_Slack_Table": 5.225,
+    "Removal_Slack_Table": 0.264,
+    "MIN_PULSE_WIDTH_TABLE": 2.482
+  },
+  "violations": {
+    "Numbers of Setup Violated Endpoints": 0,
+    "Numbers of Hold Violated Endpoints": 0
+  },
+  "pins": {
+    "hdmi_clk_p": {
+      "ball": "W19",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_clk_n": {
+      "ball": "W20",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_dat_p[0]": {
+      "ball": "Y21",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_dat_n[0]": {
+      "ball": "Y22",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_dat_p[1]": {
+      "ball": "W21",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_dat_n[1]": {
+      "ball": "W22",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_dat_p[2]": {
+      "ball": "U22",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_dat_n[2]": {
+      "ball": "V22",
+      "bank": "4",
+      "io_type": "LVDS25",
+      "vccio": "3.3"
+    },
+    "hdmi_oe": {
+      "ball": "AA21",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_xclk": {
+      "ball": "C19",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "uart_tx": {
+      "ball": "N14",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "Rst_n": {
+      "ball": "V17",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "Clk": {
+      "ball": "Y18",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "eth_rstn": {
+      "ball": "N15",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "bt_tx": {
+      "ball": "E16",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_pwm[0]": {
+      "ball": "F18",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in2[0]": {
+      "ball": "D17",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in1[0]": {
+      "ball": "B17",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_pwm[1]": {
+      "ball": "C14",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in2[1]": {
+      "ball": "C13",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in1[1]": {
+      "ball": "A13",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_pwm[2]": {
+      "ball": "E18",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in2[2]": {
+      "ball": "C17",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in1[2]": {
+      "ball": "B18",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_pwm[3]": {
+      "ball": "C15",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in2[3]": {
+      "ball": "B13",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "motor_in1[3]": {
+      "ball": "A14",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "O_ddr_cke": {
+      "ball": "AA5",
+      "bank": "6",
+      "io_type": "SSTL15",
+      "vccio": "1.5"
+    },
+    "O_ddr_reset_n": {
+      "ball": "T1",
+      "bank": "6",
+      "io_type": "SSTL15",
+      "vccio": "1.5"
+    },
+    "camera_vsync": {
+      "ball": "G22",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_pclk": {
+      "ball": "C18",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_sdat": {
+      "ball": "T21",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[0]": {
+      "ball": "B21",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[1]": {
+      "ball": "A21",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[2]": {
+      "ball": "C22",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[3]": {
+      "ball": "B22",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[4]": {
+      "ball": "E21",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[5]": {
+      "ball": "D21",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[6]": {
+      "ball": "E22",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_data[7]": {
+      "ball": "D22",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_href": {
+      "ball": "G21",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "camera_sclk": {
+      "ball": "U21",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "bt_rx": {
+      "ball": "D16",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_a[0]": {
+      "ball": "E14",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_b[0]": {
+      "ball": "E13",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_a[1]": {
+      "ball": "D15",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_b[1]": {
+      "ball": "D14",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_a[2]": {
+      "ball": "E17",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_b[2]": {
+      "ball": "F16",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_a[3]": {
+      "ball": "F14",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "encoder_b[3]": {
+      "ball": "F13",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "imu_int1": {
+      "ball": "F20",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "imu_int3": {
+      "ball": "B20",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "imu_cs_acc_n": {
+      "ball": "F19",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "imu_cs_gyro_n": {
+      "ball": "A15",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "imu_sck": {
+      "ball": "A16",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "imu_mosi": {
+      "ball": "B16",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "imu_miso": {
+      "ball": "B15",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "tof_scl": {
+      "ball": "A18",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "tof_sda": {
+      "ball": "D20",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "tof_xshut[0]": {
+      "ball": "E19",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "tof_xshut[1]": {
+      "ball": "A19",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "tof_xshut[2]": {
+      "ball": "C20",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "tof_xshut[3]": {
+      "ball": "D19",
+      "bank": "2",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "uart_rx": {
+      "ball": "N13",
+      "bank": "4",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "ps2_dat": {
+      "ball": "G17",
+      "bank": "3",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "ps2_cmd": {
+      "ball": "G18",
+      "bank": "3",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "ps2_cs_n": {
+      "ball": "H17",
+      "bank": "3",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    },
+    "ps2_clk": {
+      "ball": "H18",
+      "bank": "3",
+      "io_type": "LVCMOS33",
+      "vccio": "3.3"
+    }
+  },
+  "resources": {
+    "Logic": {
+      "used": 22125.0,
+      "total": 138240.0,
+      "percent": 16.004774305555557
+    },
+    "Register": {
+      "used": 12782.0,
+      "total": 139095.0,
+      "percent": 9.18940292605773
+    },
+    "BSRAM": {
+      "used": 301.0,
+      "total": 340.0,
+      "percent": 88.52941176470588
+    },
+    "DSP": {
+      "used": 48.5,
+      "total": 298.0,
+      "percent": 16.2751677852349
+    },
+    "I/O Port": {
+      "used": 69.0,
+      "total": 297.0,
+      "percent": 23.232323232323232
+    },
+    "PRIMARY": {
+      "used": 5.0,
+      "total": 8.0,
+      "percent": 62.5
+    },
+    "LW": {
+      "used": 5.0,
+      "total": 8.0,
+      "percent": 62.5
+    }
+  },
+  "firmware_bytes": 67668,
+  "firmware_sha256": "9cfed2f7434f081e2f00ac267aad0cc844afe22c43352bd62990986b32b46788",
+  "itcm_bytes": 131072,
+  "dtcm_bytes": 65536,
+  "external_dvp_board_timing_signed_off": false,
+  "flash_authorized": false,
+  "motor_start_authorized": false,
+  "fs_sha256": "4ba10a6456b9a017e48a68d15bde1521314802c9010a36c5ec600dc4245c2e02",
+  "fs": {
+    "fs": "F:\\FPGA\\build\\soc\\task4_red_presence\\program_files\\task4_red_presence_full.fs",
+    "fs_sha256": "4ba10a6456b9a017e48a68d15bde1521314802c9010a36c5ec600dc4245c2e02",
+    "file_bytes": 41852326,
+    "parser_payload_bytes": 5222400,
+    "parser_payload_bits": 41779200,
+    "msb_byte_payload_sha256": "fb83c9ddc96943a786d459f7a4af05054e960b0a267abf177d296c446d7165eb",
+    "sram_reverse_each_byte_payload_sha256": "73f731a67fc96860da1154cc5fa3ff084c65a56cfe95aa1c99a9add4dcea2fc2",
+    "header": {
+      "idcode": 1116187,
+      "compressed": false,
+      "crc_on": true,
+      "config_line_count": 21872
+    },
+    "expected_loader_usercode": "0x000073EB",
+    "parser_checksum_written_after_stream": "000073EB",
+    "last_config_text_line": 21908,
+    "remaining_data_lines_after_config_checksum_range": 14347
+  }
+}

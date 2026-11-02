@@ -1,0 +1,149 @@
+{
+  "status": "SRAM_STATIC_RED_1_0_1_PASS_NO_MOTION",
+  "verified_local": "2026-11-02T03:43:32.288007+08:00",
+  "identity": "END26/ALG5/MZ15",
+  "base_identity": "END25/ALG4/MZ15",
+  "fs_sha256": "4ba10a6456b9a017e48a68d15bde1521314802c9010a36c5ec600dc4245c2e02",
+  "firmware_sha256": "9cfed2f7434f081e2f00ac267aad0cc844afe22c43352bd62990986b32b46788",
+  "timing_ns": {
+    "Setup_Slack_Table": 0.024,
+    "Hold_Slack_Table": 0.175,
+    "Recovery_Slack_Table": 5.225,
+    "Removal_Slack_Table": 0.264,
+    "MIN_PULSE_WIDTH_TABLE": 2.482
+  },
+  "violations": {
+    "Numbers of Setup Violated Endpoints": 0,
+    "Numbers of Hold Violated Endpoints": 0
+  },
+  "usercode": "0x000073EB",
+  "short_usercode_collides_with_base": true,
+  "full_sram_readback_verified": false,
+  "sram_writes": 1,
+  "flash_writes": 0,
+  "motor_starts": 0,
+  "calibrations": 0,
+  "connection": "wired_verified_existing_host_key",
+  "target_size_mm": [
+    35,
+    35,
+    35
+  ],
+  "distance_mm_user_approximate": 600,
+  "distance_independently_measured": false,
+  "stages": [
+    {
+      "scene": "red_present",
+      "count": 1,
+      "sequences": [
+        60,
+        61
+      ],
+      "work_ms": [
+        1060,
+        1071
+      ],
+      "boxes": [
+        {
+          "I": 0,
+          "SEQ": 60,
+          "X": 51,
+          "Y": 21,
+          "W": 8,
+          "H": 8,
+          "AREA": 51,
+          "TH": 70,
+          "K": 0,
+          "SUPPORT": 0
+        },
+        {
+          "I": 0,
+          "SEQ": 61,
+          "X": 50,
+          "Y": 21,
+          "W": 9,
+          "H": 8,
+          "AREA": 53,
+          "TH": 70,
+          "K": 0,
+          "SUPPORT": 0
+        }
+      ],
+      "error": 0,
+      "werr": 0,
+      "fails": 1
+    },
+    {
+      "scene": "red_absent",
+      "count": 0,
+      "sequences": [
+        126,
+        127
+      ],
+      "work_ms": [
+        1001,
+        1050
+      ],
+      "boxes": [],
+      "error": 0,
+      "werr": 0,
+      "fails": 1
+    },
+    {
+      "scene": "red_replaced",
+      "count": 1,
+      "sequences": [
+        199,
+        200
+      ],
+      "work_ms": [
+        1059,
+        1089
+      ],
+      "boxes": [
+        {
+          "I": 0,
+          "SEQ": 199,
+          "X": 50,
+          "Y": 21,
+          "W": 8,
+          "H": 8,
+          "AREA": 53,
+          "TH": 70,
+          "K": 0,
+          "SUPPORT": 0
+        },
+        {
+          "I": 0,
+          "SEQ": 200,
+          "X": 50,
+          "Y": 21,
+          "W": 9,
+          "H": 8,
+          "AREA": 53,
+          "TH": 70,
+          "K": 0,
+          "SUPPORT": 0
+        }
+      ],
+      "error": 0,
+      "werr": 0,
+      "fails": 1
+    }
+  ],
+  "final_own": 0,
+  "final_trial": 0,
+  "final_background_run": 1,
+  "final_digital_outputs_zero": true,
+  "independent_remote_hashes_verified": true,
+  "independent_remote_files": 9,
+  "startup_endpoint": "END1 V=26 ALG=5 STATIC=0 RUN=1 BUSY=0 SEQ=0 VALID=0 COUNT=0 CAND=0 ERROR=10 AGE=4294967295 WORKMS=0 UPDATES=0 STEPUS=0",
+  "startup_capture_error10_preserved": true,
+  "subsequent_failure_counter_unchanged": true,
+  "first_positive_tool_failure": "Only missing read-only endpoint box 0 whitelist; original result preserved. Fixed host tool and repeated read-only queries, no SRAM retry.",
+  "red_static_validation_complete": true,
+  "navigation_goal_reached_verified": false,
+  "physical_motion_tested": false,
+  "flash_rechecked_this_run": false,
+  "evidence": "build/soc/task4_red_presence/hardware/run_001/summary.json"
+}

@@ -19,3 +19,7 @@
 # Preserve exact bytes of the deployed SRAM snapshot and its checksums.
 /sram/end23-maze/** -text
 /sram/end23-maze/program_files/*.fs -diff
+
+# Preserve the exact deployed Gowin3 V4 snapshot bytes.
+/sram/gowin3-v4/** -text
+/sram/gowin3-v4/program_files/*.fs -diff

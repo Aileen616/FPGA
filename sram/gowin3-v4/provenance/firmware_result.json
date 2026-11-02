@@ -1,0 +1,11 @@
+{
+  "status": "TARGET_BUILD_PASS",
+  "firmware_bytes": 67668,
+  "sha256": "9cfed2f7434f081e2f00ac267aad0cc844afe22c43352bd62990986b32b46788",
+  "itcm_bytes": 131072,
+  "dtcm_bytes": 65536,
+  "hardware_access": 0,
+  "sram_writes": 0,
+  "flash_writes": 0,
+  "motion_starts": 0
+}

@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-22",
+  "source": "explicit user confirmation",
+  "physical_channels": {
+    "X1": {
+      "direction": "后",
+      "xshut_ball": "E19",
+      "installed": true,
+      "logical_index": 3,
+      "address7": "0x30"
+    },
+    "X2": {
+      "direction": "前",
+      "xshut_ball": "A19",
+      "installed": true,
+      "logical_index": 0,
+      "address7": "0x31"
+    },
+    "X3": {
+      "direction": "右",
+      "xshut_ball": "C20",
+      "installed": true,
+      "logical_index": 1,
+      "address7": "0x32"
+    },
+    "X4": {
+      "direction": "左",
+      "xshut_ball": "D19",
+      "installed": true,
+      "logical_index": 2,
+      "address7": "0x33"
+    }
+  },
+  "note": "2026-10-22用户确认后方ToF已安装，恢复前X2/右X3/左X4/后X1四路。沿用现有工程X1=E19、共享SCL=A18/SDA=D20映射。2026-10-24按上述映射四路独立读回121.97秒静态通过，200ms门限不变、失鲜和总线错误均0；本轮未逐个物理遮挡复核安装方向。历史三路候选保留，不作为当前装配配置。",
+  "static_validation": {
+    "date": "2026-10-24",
+    "status": "HW_PASS_FOUR_TOF_STATIC_WINDOW",
+    "evidence": "build/soc/tof4_burst/hardware/run_20261024_001/summary.json",
+    "fs_sha256": "91c3fe47f56912301a26bc7760a75d086026c6cfdacc9ac20e0a93c6d22548e3",
+    "freshness_limit_us": 200000,
+    "all_channels_fresh": true,
+    "physical_direction_retested_by_individual_occlusion": false
+  },
+  "flash_validation": {
+    "date": "2026-10-24",
+    "status": "FLASH_READBACK_RELOAD_FOUR_TOF_STATIC_PASS",
+    "boot_usercode": "6F00",
+    "fs_sha256": "91c3fe47f56912301a26bc7760a75d086026c6cfdacc9ac20e0a93c6d22548e3",
+    "evidence": "build/soc/tof4_burst/hardware/flash_20261024_001/summary.json",
+    "freshness_limit_us": 200000,
+    "all_channels_fresh": true,
+    "physical_power_cycle_verified": false
+  }
+}

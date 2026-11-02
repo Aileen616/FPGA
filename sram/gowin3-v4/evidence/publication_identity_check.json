@@ -1,0 +1,18 @@
+{
+  "hardware_read_attempted": true,
+  "hardware_queried": true,
+  "commands": [
+    {
+      "command": "endpoint status",
+      "reply": "END1 V=26 ALG=5 STATIC=0 RUN=1 BUSY=2 SEQ=1454 VALID=1 COUNT=0 CAND=0 ERROR=0 AGE=1293 WORKMS=1033 UPDATES=1454 STEPUS=130"
+    },
+    {
+      "command": "maze io",
+      "reply": "MZIO V=1 OWN=0 VERIFIED=0 COMMITS=9790 STOPWHY=7 HEALTH=0 IQFAULT=0 IBAD=0 LINKBAD=0 EXCLUDED=0 EXDIRS=0 TRIAL=0 TLIMIT=0 FRONTGOAL=1 PROBE=0 RESULT=0 TOKEN=0 CAPTOKEN=0 CONSUMED=0 REJECTED=0 FRAMES=0"
+    }
+  ],
+  "sram_writes": 0,
+  "flash_writes": 0,
+  "motor_starts": 0,
+  "serial_owner_present": false
+}
